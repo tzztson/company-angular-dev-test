@@ -1,4 +1,4 @@
-# ConnectNow Test Project
+# Angular Developer Test Project
 
 The purpose of this project is for demonstrating ability of organizing project structure, reusable components and how to use modern languages such as typescript and html5 also scss and other relevant technologies.
 
